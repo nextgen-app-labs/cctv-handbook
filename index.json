@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "categories": [
     { "id": 1, "name": "Camera & Hình ảnh" },
     { "id": 2, "name": "Đầu ghi & Ổ cứng" },
@@ -13,6 +13,13 @@
       "title": "Camera Mất Tín Hiệu / Đen Hình",
       "description": "Kiểm tra nguồn 12V, POE switch, đầu Jack BNC/RJ45",
       "file": "no_signal.md"
+    },
+    {
+      "id": "static_route_cctv",
+      "categoryId": 3,
+      "title": "Định Tuyến Static Route Xem Camera Khác Lớp Mạng",
+      "description": "Kết nối mạng 192.168.0.x và 192.168.1.x mà không cần đổi IP",
+      "file": "static_route_camera.md"
     },
     {
       "id": "reset_hikvision",
