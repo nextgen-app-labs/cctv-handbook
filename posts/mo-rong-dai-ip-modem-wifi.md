@@ -1,5 +1,5 @@
 # Hướng Dẫn Mở Rộng Dải IP Trên Modem WiFi Lên 500 – 1000 Thiết Bị
-
+![mo-rong-dai-ip] (https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-mo-rong-dai-ip.jpg)
 ## 1. Giới thiệu & Nguyên nhân cần mở rộng IP
 Mặc định, đa số modem nhà mạng cấp lớp mạng **/24 (Subnet Mask: 255.255.255.0)** chỉ cung cấp tối đa **254 địa chỉ IP** khả dụng. 
 
