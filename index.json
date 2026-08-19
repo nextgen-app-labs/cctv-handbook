@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "categories": [
+    { "id": 1, "name": "Camera & Hình ảnh" },
+    { "id": 2, "name": "Đầu ghi & Ổ cứng" },
+    { "id": 3, "name": "Mạng Wifi & IP" },
+    { "id": 4, "name": "Nâng cao & Mật khẩu" }
+  ],
+  "guides": [
+    {
+      "id": "cam_no_signal",
+      "categoryId": 1,
+      "title": "Camera Mất Tín Hiệu / Đen Hình",
+      "description": "Kiểm tra nguồn 12V, POE switch, đầu Jack BNC/RJ45",
+      "file": "no_signal.md"
+    },
+    {
+      "id": "reset_hikvision",
+      "categoryId": 4,
+      "title": "Reset Mật Khẩu Hikvision / HiLook",
+      "description": "Xuất file XML bằng SADP Tool và tạo file reset",
+      "file": "reset_pass_hikvision.md"
+    }
+  ]
+}
