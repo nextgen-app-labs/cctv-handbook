@@ -28,7 +28,7 @@
   "title": "Mở rộng dải IP Modem WiFi lên 500-1000 thiết bị",
   "description": "Cách chỉnh Subnet Mask /23 và /22 khắc phục triệt để lỗi hết IP trên mạng lớn.",
   "file": "mo-rong-dai-ip-modem-wifi.md",
-  "thumbnail": "https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-xem-camera-khac-lop-mang.png"
+  "thumbnail": "https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-mo-rong-dai-ip.jpg"
 },
     {
       "id": "cpe_grandstream_error",
