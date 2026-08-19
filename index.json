@@ -19,7 +19,8 @@
       "categoryId": 3,
       "title": "Định Tuyến Static Route Xem Camera Khác Lớp Mạng",
       "description": "Kết nối mạng 192.168.0.x và 192.168.1.x mà không cần đổi IP",
-      "file": "static_route_camera.md"
+      "file": "static_route_camera.md",
+      "thumbnail": "https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-xem-camera-khac-lop-mang.png"
     }
   ]
 }
