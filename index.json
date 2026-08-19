@@ -27,7 +27,7 @@
       "categoryId": 4,
       "title": "Lỗi CPE Connection Failed Trên Tổng Đài Grandstream",
       "description": "Xử lý lỗi rớt máy nhánh SIP, gỡ chặn Fail2ban và mở port RTP",
-      "file": "cpe_connection_failed_grandstream.md"
+      "file": "cpe_connection_failed_grandstream.md",
       "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0STOkeNWmll8PNKhRV1_ZyGH3rMGQEFUm-fsn_hj1Y8hYJ_rJvpn8RTr6qYe2vhPdg-j9z-ZtlC11moX-BqBdJ0V1edPk7simbh7NeuN4ccmXX7FXLvxhlFJ2srs-EkH4-DuXC6ryliapTFo6wW7sOMNLfyEpHcJJvAmiCIQdINCWIglUuB29rgO-8xD/s600/L%E1%BB%97i%20CPE%20Connection%20Failed%20Tr%C3%AAn%20T%E1%BB%95ng%20%C4%90%C3%A0i%20Grandstrea.png"
     }
   ]
