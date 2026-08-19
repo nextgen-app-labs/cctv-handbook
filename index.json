@@ -16,7 +16,7 @@
     },
     {
       "id": "static_route_cctv",
-      "categoryId": 3,
+      "categoryId": 4,
       "title": "Định Tuyến Static Route Xem Camera Khác Lớp Mạng",
       "description": "Kết nối mạng 192.168.0.x và 192.168.1.x mà không cần đổi IP",
       "file": "static_route_camera.md"
