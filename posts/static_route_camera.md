@@ -5,7 +5,9 @@
 Trong quá trình triển khai hệ thống camera, nhiều kỹ thuật viên thường gặp tình huống đầu ghi camera và thiết bị xem không nằm cùng một lớp mạng (subnet). Điều này khiến việc truy cập camera nội bộ trở nên khó khăn, đặc biệt khi không thể thay đổi IP cùng lớp hoặc bật DHCP.
 
 Giải pháp hiệu quả trong trường hợp này là sử dụng **định tuyến tĩnh (Static Route)** – một tính năng hầu như router nào cũng hỗ trợ.
-https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-xem-camera-khac-lop-mang.png
+
+![huong-dan-xem-camera-khac-lop-mang](https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-xem-camera-khac-lop-mang.png)
+
 ---
 
 ### 1. Vì sao cần Static Route khi xem camera khác lớp mạng?
