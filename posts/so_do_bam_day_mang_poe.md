@@ -1,7 +1,7 @@
 # Sơ Đồ Bấm Dây Mạng RJ45, Nguồn PoE & Đấu Nối Camera Toàn Tập
 
 Trong quá trình thi công camera quan sát và hệ thống mạng, việc nắm vững thứ tự màu dây mạng, phân bổ chân nguồn PoE, cũng như cách đấu nối Jack BNC, Micro thu âm và cổng RS485 là kỹ năng cơ bản nhưng tối quan trọng để đảm bảo tín hiệu thông suốt và an toàn cho thiết bị.
-
+![so-do-bam-day-mang-chuan](https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-bam-day-mang-chuan.jpg)
 ---
 
 ## 1. Sơ Đồ Bấm Dây Mạng Chuẩn T568B & T568A
