@@ -20,7 +20,8 @@
       "categoryId": 3,
       "title": "Sơ Đồ Bấm Dây Mạng RJ45, Nguồn PoE & Đấu Nối Toàn Tập",
       "description": "Thứ tự màu chuẩn A/B, phân bổ chân nguồn POE 1-2-3-6 / 4-5-7-8, Jack BNC & Mic",
-      "file": "so_do_bam_day_mang_poe.md"
+      "file": "so_do_bam_day_mang_poe.md",
+      "thumbnail": "https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-bam-day-mang-chuan.jpg"
     },
     {
       "id": "static_route_cctv",
