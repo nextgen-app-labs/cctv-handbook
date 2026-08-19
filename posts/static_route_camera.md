@@ -16,11 +16,11 @@ Thông thường, nếu đầu ghi và thiết bị xem nằm trong các lớp m
 ### 2. Ví dụ cấu hình thực tế
 
 **Cấu hình đầu ghi camera:**
-- **IP:** `192.168.1.xx`
+- **IP:** `192.168.1.200`
 - **Subnet Mask:** `255.255.255.0`
 - **Gateway:** `192.168.1.1`
 
-**Cấu hình router TP-Link (Router phụ):**
+**Cấu hình router phụ TP-Link:**
 - **LAN IP:** `192.168.0.1`
 - **Subnet Mask:** `255.255.255.0`
 
