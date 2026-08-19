@@ -21,6 +21,12 @@
       "description": "Kết nối mạng 192.168.0.x và 192.168.1.x mà không cần đổi IP",
       "file": "static_route_camera.md"
     },
-    
+    {
+      "id": "reset_hikvision",
+      "categoryId": 4,
+      "title": "Reset Mật Khẩu Hikvision / HiLook",
+      "description": "Xuất file XML bằng SADP Tool và tạo file reset",
+      "file": "reset_pass_hikvision.md"
+    }
   ]
 }
