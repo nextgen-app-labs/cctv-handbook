@@ -47,6 +47,38 @@
   "thumbnail": ""
 },
     {
+  "id": "optimize-dual-lens-ai-isp",
+  "categoryId": 1,
+  "title": "Tối ưu Camera kép Dual Lens và công nghệ AI-ISP",
+  "description": "Cách căn chỉnh camera kép chống nhòe hình ban đêm và bám đuổi mục tiêu mượt mà.",
+  "file": "toi-uu-camera-kep-ai-isp-ban-dem.md",
+  "thumbnail": ""
+},
+    {
+  "id": "setup-hybrid-nvr-cloud-storage",
+  "categoryId": 2,
+  "title": "Thiết lập lưu trữ Hybrid NVR kết hợp Cloud an toàn",
+  "description": "Giải pháp chống mất video khi đầu ghi bị phá hoại bằng cách đẩy sự kiện lên mây.",
+  "file": "cau-hinh-sao-luu-hybrid-nvr-cloud.md",
+  "thumbnail": ""
+},
+    {
+  "id": "setup-vlan-qos-camera-switch-2-5g",
+  "categoryId": 3,
+  "title": "Cấu hình VLAN và QoS chống nghẽn cho Camera",
+  "description": "Tối ưu đường truyền switch 2.5G, chia VLAN cô lập và xử lý triệt để giật hình camera.",
+  "file": "cau-hinh-vlan-chong-nghen-camera-poe-2-5g.md",
+  "thumbnail": ""
+},
+    {
+  "id": "camera-security-e2ee-2fa-setup",
+  "categoryId": 4,
+  "title": "Bảo mật Camera chống hack với E2EE và xác thực 2FA",
+  "description": "Hướng dẫn bật mã hóa luồng video đầu cuối và khóa cổng modem chống lộ clip camera.",
+  "file": "bao-mat-camera-chong-hack-e2ee-2fa.md",
+  "thumbnail": ""
+},
+    {
       "id": "cpe_grandstream_error",
       "categoryId": 4,
       "title": "Lỗi CPE Connection Failed Trên Tổng Đài Grandstream",
