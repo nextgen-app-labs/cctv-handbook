@@ -23,6 +23,14 @@
        "thumbnail":"https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-xem-camera-khac-lop-mang.png"
     },
     {
+  "id": "expand-ip-subnet-modem",
+  "categoryId": 3,
+  "title": "Mở rộng dải IP Modem WiFi lên 500-1000 thiết bị",
+  "description": "Cách chỉnh Subnet Mask /23 và /22 khắc phục triệt để lỗi hết IP trên mạng lớn.",
+  "file": "mo-rong-dai-ip-modem-wifi.md",
+  "thumbnail": ""
+},
+    {
       "id": "cpe_grandstream_error",
       "categoryId": 4,
       "title": "Lỗi CPE Connection Failed Trên Tổng Đài Grandstream",
