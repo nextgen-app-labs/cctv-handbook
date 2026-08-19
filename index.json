@@ -31,6 +31,22 @@
   "thumbnail": "https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/huong-dan-mo-rong-dai-ip.jpg"
 },
     {
+  "id": "fix-cctv-dvr-nvr-errors",
+  "categoryId": 2,
+  "title": "Sửa lỗi đầu ghi CCTV không nhận ổ cứng, kêu tít tít",
+  "description": "Cách xử lý nhanh lỗi đầu ghi NVR/DVR không nhận HDD, reset liên tục và sai độ phân giải.",
+  "file": "sua-loi-dau-ghi-hinh-cctv.md",
+  "thumbnail": ""
+},
+    {
+  "id": "unbind-camera-imou-ezviz",
+  "categoryId": 4,
+  "title": "Cách gỡ tài khoản camera Imou và EZVIZ bị dính iCloud",
+  "description": "Hướng dẫn tự hủy gán tài khoản cũ trên camera Imou, EZVIZ nhanh chóng qua mạng LAN.",
+  "file": "go-tai-khoan-camera-imou-ezviz.md",
+  "thumbnail": ""
+},
+    {
       "id": "cpe_grandstream_error",
       "categoryId": 4,
       "title": "Lỗi CPE Connection Failed Trên Tổng Đài Grandstream",
