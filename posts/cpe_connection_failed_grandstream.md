@@ -3,7 +3,7 @@
 Lỗi **"CPE Connection Failed"** là một cảnh báo thường gặp trên hệ thống tổng đài IP Grandstream (UCM6200, UCM6300 series), đặc biệt trong quá trình sử dụng điện thoại IP Phone, bộ chuyển đổi ATA hoặc Softphone SIP. 
 
 Nếu không xử lý kịp thời, lỗi này có thể gây gián đoạn cuộc gọi nội bộ và ngoại mạng.
-
+![cpe-connection-failed-grandstream](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0STOkeNWmll8PNKhRV1_ZyGH3rMGQEFUm-fsn_hj1Y8hYJ_rJvpn8RTr6qYe2vhPdg-j9z-ZtlC11moX-BqBdJ0V1edPk7simbh7NeuN4ccmXX7FXLvxhlFJ2srs-EkH4-DuXC6ryliapTFo6wW7sOMNLfyEpHcJJvAmiCIQdINCWIglUuB29rgO-8xD/s600/L%E1%BB%97i%20CPE%20Connection%20Failed%20Tr%C3%AAn%20T%E1%BB%95ng%20%C4%90%C3%A0i%20Grandstrea.png)
 ---
 
 ### 1. CPE Connection Failed Là Gì?
