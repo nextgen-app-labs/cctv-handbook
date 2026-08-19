@@ -6,8 +6,6 @@ Trong quá trình triển khai hệ thống camera, nhiều kỹ thuật viên t
 
 Giải pháp hiệu quả trong trường hợp này là sử dụng **định tuyến tĩnh (Static Route)** – một tính năng hầu như router nào cũng hỗ trợ.
 
-<img width="400" height="266" alt="huong-dan-xem-camera-khac-lop-mang" src="https://github.com/user-attachments/assets/e8851eb4-38eb-4cf8-a7dd-806d6c58f2e6" />
-
 ---
 
 ### 1. Vì sao cần Static Route khi xem camera khác lớp mạng?
