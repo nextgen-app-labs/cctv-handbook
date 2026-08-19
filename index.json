@@ -40,7 +40,7 @@
 },
     {
   "id": "unbind-camera-imou-ezviz",
-  "categoryId": 4,
+  "categoryId": 1,
   "title": "Cách gỡ tài khoản camera Imou và EZVIZ bị dính iCloud",
   "description": "Hướng dẫn tự hủy gán tài khoản cũ trên camera Imou, EZVIZ nhanh chóng qua mạng LAN.",
   "file": "go-tai-khoan-camera-imou-ezviz.md",
