@@ -86,7 +86,7 @@
   "title": "Bảo mật Camera chống hack với E2EE và xác thực 2FA",
   "description": "Hướng dẫn bật mã hóa luồng video đầu cuối và khóa cổng modem chống lộ clip camera.",
   "file": "bao-mat-camera-chong-hack-e2ee-2fa.md",
-  "thumbnail": ""
+  "thumbnail": "https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/bao-mat-camera-chong-hack-e2ee-2fa.png"
 },
     {
       "id": "cpe_grandstream_error",
