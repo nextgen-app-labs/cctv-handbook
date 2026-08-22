@@ -1,5 +1,5 @@
 # Thiết Lập Bảo Mật Camera: Kích Hoạt E2EE & Khóa Truy Cập 2FA
-
+![bao-mat-camera-chong-hack](https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/bao-mat-camera-chong-hack-e2ee-2fa.png)
 ## 1. Nguy cơ lộ lọt hình ảnh riêng tư và botnet tấn công
 Đa số các vụ rò rỉ clip camera gia đình bắt nguồn từ các nguyên nhân:
 - Sử dụng mật khẩu mặc định hoặc mật khẩu ngắn, dễ đoán.
