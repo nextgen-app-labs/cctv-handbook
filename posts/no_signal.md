@@ -1,6 +1,6 @@
 # Xử lý Camera Mất Tín Hiệu / Đen Hình
 
-![camera_mat_hinh](https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/sua_loi_camera_mat_hinh.png)
+![camera-mat-hinh](https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/sua_loi_camera_mat_hinh.png)
 
 ### 1. Hiện tượng thường gặp
 - Màn hình tivi / điện thoại hiển thị màu đen, báo *No Signal*, *Offline* hoặc *IPC Offline*.
