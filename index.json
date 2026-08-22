@@ -12,7 +12,8 @@
       "categoryId": 1,
       "title": "Camera Mất Tín Hiệu / Đen Hình",
       "description": "Kiểm tra nguồn 12V, POE switch, đầu Jack BNC/RJ45",
-      "file": "no_signal.md"
+      "file": "no_signal.md",
+      "thumbnail": "https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/sua_loi_camera_mat_hinh.png"
     },
 
     {
