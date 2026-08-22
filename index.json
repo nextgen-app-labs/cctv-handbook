@@ -70,7 +70,7 @@
   "title": "Thiết lập lưu trữ Hybrid NVR kết hợp Cloud an toàn",
   "description": "Giải pháp chống mất video khi đầu ghi bị phá hoại bằng cách đẩy sự kiện lên mây.",
   "file": "cau-hinh-sao-luu-hybrid-nvr-cloud.md",
-  "thumbnail": ""
+  "thumbnail": "https://raw.githubusercontent.com/nextgen-app-labs/cctv-handbook/refs/heads/main/cau-hinh-sao-luu-hybrid-nvr-cloud.png"
 },
     {
   "id": "setup-vlan-qos-camera-switch-2-5g",
